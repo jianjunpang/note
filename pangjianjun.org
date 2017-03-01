@@ -5,6 +5,7 @@
 ** cpp
 ** html
 ** php
+** sql
 * operating system
-** postgresql
-** bash
+** linux
+*** bash
