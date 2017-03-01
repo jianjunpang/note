@@ -1,0 +1,10 @@
+* editor
+** emacs
+* programming language
+** c
+** cpp
+** html
+** php
+* operating system
+** postgresql
+** bash
